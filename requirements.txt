@@ -1,0 +1,2 @@
+# Nenhuma dependência externa.
+# Tkinter e sqlite3 são da biblioteca padrão do Python.
