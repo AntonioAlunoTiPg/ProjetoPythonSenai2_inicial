@@ -50,4 +50,4 @@ python agenda.py
 
 **Desenvolvido por:** [Antonio Victor Monteiro de Souza]
 **Disciplina/Curso:** [Programação Senai]
-**Data:** [Concluido 03/07/2025]
+**Data:** [Concluido 03/07/2025]"# ProjetoPythonSenai2_inicial" 
